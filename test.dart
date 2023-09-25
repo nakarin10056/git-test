@@ -1,3 +1,4 @@
 void main(){
-  print("test");
+  int op = 10;
+  print(op);
 }
